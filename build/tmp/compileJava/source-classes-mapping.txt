@@ -1,0 +1,6 @@
+JpaDemo/Alien.java
+ JpaDemo.Alien
+JpaDemo/App.java
+ JpaDemo.App
+JpaDemo/DBConnector.java
+ JpaDemo.DBConnector
